@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the MIMIC-IV sources listed in the README."
+title: "Hospital Flow Burden in MIMIC-IV"
+type: software
+authors:
+  - family-names: "Mukherjee"
+    given-names: "Saige"
+year: 2026
+license: MIT
+repository-code: https://github.com/mukherjeesaige/mimic-iv-hospital-flow-analysis
+abstract: >-
+  A portfolio analysis of hospital care-unit segment duration, long-stay
+  capacity burden, and discharge destination using MIMIC-IV v3.1.
+keywords:
+  - healthcare operations
+  - patient flow
+  - hospital capacity
+  - MIMIC-IV
+  - BigQuery
+  - Jupyter
